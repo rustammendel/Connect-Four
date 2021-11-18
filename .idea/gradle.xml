@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Connect Four/task" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Reddit" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Area printer" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Summation" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Equality/Kings of Sweden" />
+            <option value="$PROJECT_DIR$/Topics/Equality/Referential equality" />
+            <option value="$PROJECT_DIR$/Topics/Equality/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Equality/True captain" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong?" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Count the numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of three numbers" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Divide nuts equally between squirrels" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time format" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Hello, Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/List/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Add them all" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Remove us" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Your name" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Between two numbers" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Different colo(u)rs" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Boys in the sport class" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Repetitions and templates" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Cause an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The same line" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

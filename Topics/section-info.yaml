@@ -1,0 +1,22 @@
+content:
+- Introduction to Kotlin
+- Overview of the basic program
+- Integers in action
+- Relational operators
+- Equality
+- String templates
+- If expression
+- Repeating blocks
+- Working with strings
+- Ranges
+- For loop and ranges
+- Regexps
+- Introduction to MutableList
+- List
+- Mutable List
+- Errors in programs
+- What is an exception
+- Declaring classes
+- Default arguments
+- Named arguments
+- Constructors
